@@ -24,10 +24,6 @@ public class HardcoverBook implements Book {
         this.pageCount = pageCount;
     }
 
-    @Override
-    public String getArtist() {
-        return "";
-    }
 
     @Override
     public String getAuthor() {
